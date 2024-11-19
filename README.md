@@ -9,7 +9,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=MaulikBhalani.MaulikBhalani)
 
 ## :sassy_man: About me:
-- 🏫 Currently Persuing Bachelors Degree in Computer Science and Engineering (CSE'23) at [***Ahmedabad University***](https://ahduni.edu.in/).
 - 🌱 A passionate Full-Stack web developer and currently learning Anglar.
 - :nerd_face: Always `learning new things` and love to take `Tech Challenges`
 - 💬 Ask me about ReactJS, Express, sql, Python
