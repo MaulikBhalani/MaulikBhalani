@@ -14,15 +14,28 @@
 - 💬 Ask me about ReactJS, Express, sql, Python
 <br /><br />
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">Connect with me:
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<a href="https://www.linkedin.com/in/maulik-bhalani/">
-    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a> &nbsp;
-<a href="https://www.instagram.com/bhalani_maulik/">
-    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
-</a>
-<br /><br />
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/maulik-bhalani/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/MaulikBhalani">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21957513/maulik-patel?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <!--<a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">-->
+					<!--<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>-->
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/bhalani_maulik/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="http://x.com/Maulik__Bhalani">
+			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
+		<!--<a style="margin-left: 10px;" target="_blank" href="">-->
+		<!--		<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>-->
+		<!--<a style="margin-left: 5px;" target="_blank" href="">-->
+		<!--			<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>-->
+      </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
