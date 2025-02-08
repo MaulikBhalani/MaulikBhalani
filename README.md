@@ -20,7 +20,7 @@ Maulik</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 <h3 align="center">A Passionate Full Stack developer from Vadodara India &#127470;&#127475</h3>
 
-<div style="margin-top:30px;"></div>
+<div style="margin-top:50px;"></div>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
