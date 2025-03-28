@@ -26,7 +26,7 @@ Maulik</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at <a href="https://niyantras.com/" target="_blank">Niyantras</a>.
+- 🔭 I’m currently working as a Software engineer.
 
 - 🌱 I’m working on **Web Development** (React + Angular).
 
