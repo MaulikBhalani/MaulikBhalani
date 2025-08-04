@@ -14,7 +14,7 @@
 <!--- 💬 Ask me about ReactJS, Express, sql, Python-->
 <!--<br /><br />-->
 
-<h1 align="center">Hi, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> 
+<h1 align="center">Hi, I'm <a href="https://maulikbhalani.github.io/" target="blank"> 
 Maulik</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
 
